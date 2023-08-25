@@ -1,4 +1,4 @@
-# Laboratorio II: Diseño de un sistema de adquisición de datos. Parte I
+# Laboratorio II: Diseño de un sistema de adquisición de datos. 
 
 Este repositorio contiene la documentación y los resultados del Laboratorio II del curso EL-5822 Taller de Instrumentación.
 
