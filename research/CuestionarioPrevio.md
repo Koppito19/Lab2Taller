@@ -69,7 +69,7 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 - Las termocuplas son adecuadas para diferentes aplicaciones en función de sus rangos de temperatura y sus propiedades específicas. La elección de la termocupla adecuada depende de los requisitos del diseño y el entorno de operación.
 - Las tensiones generadas por las termocuplas son pequeñas y requieren amplificación para su lectura precisa.
 
-![Tipos de termocuplas populares](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen2.jpeg)
+![Tipos de termocuplas populares](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen2.jpg)
 
 
 
