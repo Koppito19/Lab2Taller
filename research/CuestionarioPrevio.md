@@ -9,11 +9,11 @@
 
 ![Tecnológico de Costa Rica](https://th.bing.com/th/id/OIP.wqe6IbLSTjEmOdbOu3S-XwHaE7?pid=ImgDet&rs=1)
 
-**Tecnológico de Costa Rica**
-*Escuela de Electrónica*
-*Curso: EL-5822 Taller de Instrumentación*
-*Sede: Alajuela*
-*Segundo Semestre, 2023*
+- **Tecnológico de Costa Rica**
+- *Escuela de Electrónica*
+- *Curso: EL-5822 Taller de Instrumentación*
+- *Sede: Alajuela*
+- *Segundo Semestre, 2023*
 
 ---
 
