@@ -34,7 +34,8 @@
 ###Respuesta:
 Respuesta.
 
-![Título de la Imagen](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen1.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+
 
 
 
@@ -69,7 +70,8 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 - Las termocuplas son adecuadas para diferentes aplicaciones en función de sus rangos de temperatura y sus propiedades específicas. La elección de la termocupla adecuada depende de los requisitos del diseño y el entorno de operación.
 - Las tensiones generadas por las termocuplas son pequeñas y requieren amplificación para su lectura precisa.
 
-![Tipos de termocuplas populares](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen2.jpg)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen2.jpg)
+
 
 
 
@@ -79,7 +81,8 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 ###Respuesta:
 Respuesta.
 
-![Título de la Imagen]([link_de__la_imagen](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen3.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+
 
 
 
@@ -98,7 +101,8 @@ El aislamiento eléctrico entre dos tierras se refiere a la práctica de separar
     6. **Compatibilidad de Potencia:** Permite la interconexión de componentes o sistemas con diferentes niveles de potencia sin el riesgo de cortocircuitos.
     7. **Seguridad:** En sistemas donde hay interacción con usuarios, el aislamiento eléctrico puede mejorar la seguridad al evitar el riesgo de descargas eléctricas.
 
-![Ailasmiento eléctrico entre dos tierras](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen4.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen4.png)
+
 
 
 
@@ -108,7 +112,8 @@ El aislamiento eléctrico entre dos tierras se refiere a la práctica de separar
 ###Respuesta:
 Respuesta.
 
-![Título de la Imagen](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen5.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+
 
 
 
@@ -118,7 +123,8 @@ Respuesta.
 ###Respuesta:
 Respuesta.
 
-![Título de la Imagen]([link_de__la_imagen](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen6.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+
 
 
 
@@ -128,7 +134,8 @@ Respuesta.
 ###Respuesta:
 Respuesta.
 
-![Título de la Imagen](https://raw.githubusercontent.com/2017153854/Lab2_Taller/main/research/Imagenes_CuestionarioPrevio/imagen7.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+
 
 
 
