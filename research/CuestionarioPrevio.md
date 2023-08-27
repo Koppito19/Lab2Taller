@@ -32,7 +32,23 @@
 ¿Cuales son los tipos de sensores de temperatura más populares? ¿Cuáles son sus ventajas y desventajas en función de los requisitos del diseño?
 
 ###Respuesta:
-Respuesta.
+Termistores:
+Los termistores son sensores económicos y compactos que responden rápidamente a los cambios de temperatura. Son sensibles pero su precisión puede ser limitada en algunos rangos. Son ideales para aplicaciones que requieren respuestas rápidas a cambios de temperatura.
+
+Termopares:
+Los termopares son versátiles y duraderos, especialmente en entornos de alta temperatura. Sin embargo, su precisión es relativamente baja en comparación con otros sensores. No requieren una fuente de alimentación externa, lo que los hace adecuados para aplicaciones en las que se necesita medir temperaturas extremas.
+
+RTD (Resistencia Térmica de Detracción):
+Los RTD ofrecen alta precisión y estabilidad en un rango amplio de temperaturas. Son ideales cuando se requieren mediciones muy precisas. Sin embargo, pueden ser más costosos que otros sensores y tienen una respuesta más lenta a los cambios de temperatura.
+
+Termómetros de infrarrojos (IR):
+Los termómetros de infrarrojos miden la temperatura superficial sin contacto. Son rápidos y útiles para medir objetos a distancia. Sin embargo, pueden verse afectados por la emisividad de la superficie y otros factores, lo que podría afectar su precisión.
+
+IC de sensor de temperatura:
+Los sensores de temperatura integrados son pequeños y precisos. Algunos ofrecen interfaces digitales, lo que los hace fáciles de usar en sistemas electrónicos. Sin embargo, pueden ser más costosos y tener limitaciones en ciertos rangos de temperatura.
+
+Sensores de temperatura basados en diodos:
+Estos sensores utilizan diodos de silicio para medir la temperatura. Son precisos y convenientes para aplicaciones electrónicas. Sin embargo, su precisión puede ser menor que la de otros sensores más especializados.
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
 
@@ -143,8 +159,8 @@ Respuesta.
 
 # Bibliografía
 
-1. National Institute of Standards and Technology (NIST). "Thermocouples Calibrations Services". [Enlace a la fuente](https://www.nist.gov/pml/sensor-science/thermodynamic-metrology/thermocouples-calibrations-services).
-2. Referencia2.
+1.
+2.  National Institute of Standards and Technology (NIST). "Thermocouples Calibrations Services". [Enlace a la fuente](https://www.nist.gov/pml/sensor-science/thermodynamic-metrology/thermocouples-calibrations-services).
 3. Ref3.
 4. Texas Instruments. "Isolation: Understanding Signal and Power Isolation in Digital Systems". [Enlace de la fuente] (https://www.ti.com/lit/an/slla197/slla197.pdf)
 5. Referencia5.
