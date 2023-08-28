@@ -50,7 +50,7 @@ Los sensores de temperatura integrados son pequeños y precisos. Algunos ofrecen
 Sensores de temperatura basados en diodos:
 Estos sensores utilizan diodos de silicio para medir la temperatura. Son precisos y convenientes para aplicaciones electrónicas. Sin embargo, su precisión puede ser menor que la de otros sensores más especializados.
 
-![Sensores Populares](Imagenes_CuestionarioPrevio/Imagen 1.jpg)
+![Sensores Populares](Imagenes_CuestionarioPrevio/Imagen1.jpg)
 
 
 
@@ -97,7 +97,7 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 ###Respuesta:
 Respuesta.
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
 
 
@@ -132,7 +132,7 @@ Los optoacopladores son dispositivos que utilizan un LED en una parte del circui
  Transformadores:
 Los transformadores son otra opción para lograr el aislamiento eléctrico. Consisten en dos bobinas enrolladas alrededor de un núcleo de ferrita. La señal de entrada se induce en la primera bobina y se acopla magnéticamente a la segunda bobina, creando así una señal aislada eléctricamente en la salida. Los transformadores son efectivos para señales de baja frecuencia y pueden manejar niveles de potencia más altos que los optoacopladores.
 
-![Optoacoplador](Imagenes_CuestionarioPrevio/Imagen 5.jpg)
+![Optoacoplador](Imagenes_CuestionarioPrevio/Imagen5.jpg)
 
 
 
@@ -143,7 +143,7 @@ Los transformadores son otra opción para lograr el aislamiento eléctrico. Cons
 ###Respuesta:
 Respuesta.
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
 
 
@@ -154,7 +154,7 @@ Respuesta.
 ###Respuesta:
 Respuesta.
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
 
 
