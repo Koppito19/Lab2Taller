@@ -167,7 +167,7 @@ research/Imagenes_CuestionarioPrevio/Data Acquisition.png
 
 *Razón de rechazo en modo común (CMRR):* El texto se centra en la importancia de la medida de la capacidad de un amplificador para rechazar señales no deseadas que afectan ambas entradas por igual, es decir, señales en modo común. Esto se conoce como la Razón de Rechazo en Modo Común (CMRR).
 
-$ CMRR = 20*\log_{10}(\frac{A_{ol}}{A_{cm}}) $
+$$ CMRR = 20*\log_{10}(\frac{A_{ol}}{A_{cm}}) $$
 
 *Señales deseadas y no deseadas:* En un amplificador diferencial, las señales deseadas pueden aparecer en una sola entrada o en ambas con polaridades opuestas. Por otro lado, las señales no deseadas (ruido) que tienen la misma polaridad en ambas entradas son eliminadas por el amplificador diferencial y no se reflejan en las salidas.
 
@@ -187,7 +187,7 @@ El rechazo de crosstalk (también conocido como diafonía) se refiere a la capac
 
 Para medir el rechazo de crosstalk, se puede calcular el Crosstalk Ratio (CTR):
 
-$ CTR = 20*\log_{10}(\frac{V_{senal principal}}{V_{crosstalk}}) $
+$$ CTR = 20*\log_{10}(\frac{V_{senal principal}}{V_{crosstalk}}) $$
 
 Un CTR más alto indica una mejor capacidad del sistema para minimizar la interferencia entre canales. Los sistemas con un buen rechazo de crosstalk son esenciales en entornos donde múltiples canales de transmisión están cercanos y necesitan operar sin afectarse mutuamente, como en sistemas de redes de datos y comunicaciones. En ambos casos, un valor más alto en las mediciones de rechazo indica un mejor rendimiento del sistema en términos de minimizar interferencias y ruidos no deseados. Estas mediciones son fundamentales para garantizar una transmisión de señal confiable y de alta calidad en aplicaciones críticas.
 
