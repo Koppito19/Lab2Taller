@@ -199,7 +199,7 @@ Un CTR más alto indica una mejor capacidad del sistema para minimizar la interf
 3. Ref3.
 4. Texas Instruments. "Isolation: Understanding Signal and Power Isolation in Digital Systems". [Enlace de la fuente] (https://www.ti.com/lit/an/slla197/slla197.pdf)
 5. Scherz, P., & Monk, S. (2013). Practical electronics for inventors. McGraw-Hill Education.. [Enlace a la fuente](https://www.accessengineeringlibrary.com/content/book/9780071771337).
-6. Referencia6.
+6.Microchip. "Programmable Gain Amplifiers (PGAs), Operational Amplifiers and Comparators Design Guide". (http://ww1.microchip.com/downloads/en/devicedoc/21861b.pdf)
 7. Thomas L. Floyd, Dispositivos Electrónicos, 8ª ed., PEARSON EDUCACION, 2008. ISBN 978-970-26-1193-6.
 
 ---
