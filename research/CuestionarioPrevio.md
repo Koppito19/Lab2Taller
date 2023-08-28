@@ -138,14 +138,26 @@ Los transformadores son otra opción para lograr el aislamiento eléctrico. Cons
 
 
 ## Pregunta 6:
-¿Pregunta?
-
+6. Investigue diseños de amplificadores con ganancia programable.
+   
 ###Respuesta:
-Respuesta.
+
+- Los Amplificadores con Ganancia Programable podrían clasificarse en 4 grupos:
+    1. Amplificadores con resistencia interna con los que añadiendo resistencia externas se varia la ganancia.
+    2. Amplificadores que incorporan todas las resistencias y la variación se logra haciendo cortocircuitos en la terminales.
+    3. Amplificadores en los que la ganancia se consigue modificando la tensión analógica.
+    4. Dispositivos que en los que la ganancia se consigue aplicando un código digital a la entrada.
+
+- Tenemos el MCP6221 que correspondería el 4 grupo de Ganancia Programable, ya que se controla de manera digital ya que viene con un periférico SPI el cual puede ser controlado usando un microcontrolador. Al igual tenemos el AD7710 que también se controla atraves SPI.
+
+
+![Título de la imagen](Imagenes_CuestionarioPrevio/Data_Acquisition.png)
+
+- En la empresa Analog Divice tenemos el AD8421 que un ruido muy bajo, tiene resistencias internas y ademas se acompaña con un MUX para controlar las ganancias, ya que tiene diferentes resistencias para variar la ganancia, este se podría considerar del grupo 1. El problema que se tiene es que la ganancia es no lineal lo cual no es deseado.
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
-
+research/Imagenes_CuestionarioPrevio/Data Acquisition.png
 
 
 ## Pregunta 7:
