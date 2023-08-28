@@ -123,10 +123,14 @@ El aislamiento eléctrico entre dos tierras se refiere a la práctica de separar
 
 
 ## Pregunta 5:
-¿Pregunta?
+Investigue diseños electrónicos para aislar eléctricamente señales DC o de baja frecuencia (<100Hz).
 
 ###Respuesta:
-Respuesta.
+ Optoacopladores (Optoaisladores):
+Los optoacopladores son dispositivos que utilizan un LED en una parte del circuito y un fototransistor en la otra. La señal de entrada se convierte en una señal de luz por el LED, que luego se detecta en el fototransistor y se convierte de nuevo en una señal eléctrica. Esto proporciona aislamiento galvánico, ya que no hay conexión eléctrica directa entre las dos partes del circuito. Los optoacopladores son ideales para señales de baja frecuencia y DC, y son comunes en aplicaciones de control y monitoreo.
+
+ Transformadores:
+Los transformadores son otra opción para lograr el aislamiento eléctrico. Consisten en dos bobinas enrolladas alrededor de un núcleo de ferrita. La señal de entrada se induce en la primera bobina y se acopla magnéticamente a la segunda bobina, creando así una señal aislada eléctricamente en la salida. Los transformadores son efectivos para señales de baja frecuencia y pueden manejar niveles de potencia más altos que los optoacopladores.
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/imagen1.png)
 
