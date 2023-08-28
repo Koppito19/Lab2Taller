@@ -163,11 +163,11 @@ Respuesta.
 
 # Bibliografía
 
-1.
+1. Kulwicki, B. M. (1991). Humidity sensors. Journal of the American Ceramic Society, 74(4), 697-708. [Enlace a la fuente](https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/j.1151-2916.1991.tb06911.x).
 2.  National Institute of Standards and Technology (NIST). "Thermocouples Calibrations Services". [Enlace a la fuente](https://www.nist.gov/pml/sensor-science/thermodynamic-metrology/thermocouples-calibrations-services).
 3. Ref3.
 4. Texas Instruments. "Isolation: Understanding Signal and Power Isolation in Digital Systems". [Enlace de la fuente] (https://www.ti.com/lit/an/slla197/slla197.pdf)
-5. Referencia5.
+5. Scherz, P., & Monk, S. (2013). Practical electronics for inventors. McGraw-Hill Education.. [Enlace a la fuente](https://www.accessengineeringlibrary.com/content/book/9780071771337).
 6. Referencia6.
 7. Referencia7.
 
