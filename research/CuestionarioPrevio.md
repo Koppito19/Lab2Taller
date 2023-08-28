@@ -163,11 +163,11 @@ research/Imagenes_CuestionarioPrevio/Data Acquisition.png
 ## Pregunta 7:
 7. Investigue como se mide el rechazo de modo común para una señal diferencial, y el rechazo de crosstalk entre dos canales.
 
-###Respuesta:
+### Rechazo de modo comun:
 
 *Razón de rechazo en modo común (CMRR):* El texto se centra en la importancia de la medida de la capacidad de un amplificador para rechazar señales no deseadas que afectan ambas entradas por igual, es decir, señales en modo común. Esto se conoce como la Razón de Rechazo en Modo Común (CMRR).
 
-CMRR = $ 20*log(A_{ol}/A_{cm})
+$ CMRR = 20*\log_{10}(\frac{A_{ol}}{A_{cm}}) $
 
 *Señales deseadas y no deseadas:* En un amplificador diferencial, las señales deseadas pueden aparecer en una sola entrada o en ambas con polaridades opuestas. Por otro lado, las señales no deseadas (ruido) que tienen la misma polaridad en ambas entradas son eliminadas por el amplificador diferencial y no se reflejan en las salidas.
 
@@ -177,11 +177,19 @@ CMRR = $ 20*log(A_{ol}/A_{cm})
 
 *CMRR como medida de desempeño:* Se sugiere que una medida efectiva del desempeño de un amplificador diferencial en la capacidad de rechazar señales no deseadas en modo común es el cociente entre la ganancia de voltaje diferencial y la ganancia en modo común, que es precisamente la Razón de Rechazo en Modo Común (CMRR).
 
-
+Un CMRR más alto indica una mejor capacidad del sistema para rechazar las interferencias comunes. Los sistemas con un CMRR alto son deseables en aplicaciones sensibles en las que se necesita minimizar las interferencias, como en sistemas biomédicos o de audio profesional.
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/Imagen7.png)
 
+### Crosstalk:
 
+El rechazo de crosstalk (también conocido como diafonía) se refiere a la capacidad de un sistema para rechazar las interferencias provenientes de señales en canales adyacentes o cercanos. Por lo general, se utiliza para medir la interferencia que se produce entre dos canales cercanos cuando están transmitiendo señales simultáneamente.
+
+Para medir el rechazo de crosstalk, se puede calcular el Crosstalk Ratio (CTR):
+
+$ CTR = 20*\log_{10}(\frac{V_{senal principal}}{V_{crosstalk}}) $
+
+Un CTR más alto indica una mejor capacidad del sistema para minimizar la interferencia entre canales. Los sistemas con un buen rechazo de crosstalk son esenciales en entornos donde múltiples canales de transmisión están cercanos y necesitan operar sin afectarse mutuamente, como en sistemas de redes de datos y comunicaciones. En ambos casos, un valor más alto en las mediciones de rechazo indica un mejor rendimiento del sistema en términos de minimizar interferencias y ruidos no deseados. Estas mediciones son fundamentales para garantizar una transmisión de señal confiable y de alta calidad en aplicaciones críticas.
 
 
 ---
