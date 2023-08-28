@@ -177,7 +177,7 @@ $$ CMRR = 20*\log_{10}(\frac{A_{ol}}{A_{cm}}) $$
 
 *CMRR como medida de desempeño:* Se sugiere que una medida efectiva del desempeño de un amplificador diferencial en la capacidad de rechazar señales no deseadas en modo común es el cociente entre la ganancia de voltaje diferencial y la ganancia en modo común, que es precisamente la Razón de Rechazo en Modo Común (CMRR).
 
-Un CMRR más alto indica una mejor capacidad del sistema para rechazar las interferencias comunes. Los sistemas con un CMRR alto son deseables en aplicaciones sensibles en las que se necesita minimizar las interferencias, como en sistemas biomédicos o de audio profesional.
+Un CMRR más alto indica una mejor capacidad del sistema para rechazar las interferencias comunes. Los sistemas con un CMRR alto son deseables en aplicaciones sensibles en las que se necesita minimizar las interferencias, como en sistemas biomédicos o de audio profesional. [7]
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/Imagen7.png)
 
@@ -202,6 +202,6 @@ Un CTR más alto indica una mejor capacidad del sistema para minimizar la interf
 4. Texas Instruments. "Isolation: Understanding Signal and Power Isolation in Digital Systems". [Enlace de la fuente] (https://www.ti.com/lit/an/slla197/slla197.pdf)
 5. Scherz, P., & Monk, S. (2013). Practical electronics for inventors. McGraw-Hill Education.. [Enlace a la fuente](https://www.accessengineeringlibrary.com/content/book/9780071771337).
 6. Referencia6.
-7. Referencia7.
+7. Thomas L. Floyd, Dispositivos Electrónicos, 8ª ed., PEARSON EDUCACION, 2008. ISBN 978-970-26-1193-6.
 
 ---
