@@ -164,7 +164,10 @@ research/Imagenes_CuestionarioPrevio/Data Acquisition.png
 7. Investigue como se mide el rechazo de modo común para una señal diferencial, y el rechazo de crosstalk entre dos canales.
 
 ###Respuesta:
+
 *Razón de rechazo en modo común (CMRR):* El texto se centra en la importancia de la medida de la capacidad de un amplificador para rechazar señales no deseadas que afectan ambas entradas por igual, es decir, señales en modo común. Esto se conoce como la Razón de Rechazo en Modo Común (CMRR).
+
+$$ CMRR = 20*log(A_{ol}/A_{cm})
 
 *Señales deseadas y no deseadas:* En un amplificador diferencial, las señales deseadas pueden aparecer en una sola entrada o en ambas con polaridades opuestas. Por otro lado, las señales no deseadas (ruido) que tienen la misma polaridad en ambas entradas son eliminadas por el amplificador diferencial y no se reflejan en las salidas.
 
@@ -175,7 +178,8 @@ research/Imagenes_CuestionarioPrevio/Data Acquisition.png
 *CMRR como medida de desempeño:* Se sugiere que una medida efectiva del desempeño de un amplificador diferencial en la capacidad de rechazar señales no deseadas en modo común es el cociente entre la ganancia de voltaje diferencial y la ganancia en modo común, que es precisamente la Razón de Rechazo en Modo Común (CMRR).
 
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
+
+![Título de la imagen](Imagenes_CuestionarioPrevio/Imagen7.png)
 
 
 
