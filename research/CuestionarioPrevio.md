@@ -151,13 +151,11 @@ Los transformadores son otra opción para lograr el aislamiento eléctrico. Cons
 - Tenemos el MCP6221 que correspondería el 4 grupo de Ganancia Programable, ya que se controla de manera digital ya que viene con un periférico SPI el cual puede ser controlado usando un microcontrolador. Al igual tenemos el AD7710 que también se controla atraves SPI.
 
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/Data_Acquisition.png)
+![Título de la imagen](Imagenes_CuestionarioPrevio/img_5.png)
 
 - En la empresa Analog Divice tenemos el AD8421 que un ruido muy bajo, tiene resistencias internas y ademas se acompaña con un MUX para controlar las ganancias, ya que tiene diferentes resistencias para variar la ganancia, este se podría considerar del grupo 1. El problema que se tiene es que la ganancia es no lineal lo cual no es deseado.
 
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
-
-research/Imagenes_CuestionarioPrevio/Data Acquisition.png
+![Título de la imagen](Imagenes_CuestionarioPrevio/img_6.png)
 
 
 ## Pregunta 7:
