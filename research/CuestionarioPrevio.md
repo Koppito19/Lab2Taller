@@ -94,7 +94,7 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 ## Pregunta 3:
 ¿Qué es una señal balanceada y una no balanceada? ¿Qué aplicación tiene el uso de señales balanceadas?
 
-###Señal No Balanceada:
+### Señal No Balanceada:
 
 Una señal no balanceada, también conocida como señal no diferencial o señal de un solo extremo, se transmite a través de un solo conductor en relación a una referencia de tierra (nivel de referencia). En este caso, la señal se mide respecto a un punto de referencia en el circuito. Un ejemplo común es un cable coaxial en el que el conductor central lleva la señal y el conductor exterior y la tierra actúan como referencia.
 
