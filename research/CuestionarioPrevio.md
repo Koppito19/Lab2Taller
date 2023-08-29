@@ -92,10 +92,29 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 
 
 ## Pregunta 3:
-¿Pregunta?
+¿Qué es una señal balanceada y una no balanceada? ¿Qué aplicación tiene el uso de señales balanceadas?
 
-###Respuesta:
-Respuesta.
+###Señal No Balanceada:
+
+Una señal no balanceada, también conocida como señal no diferencial o señal de un solo extremo, se transmite a través de un solo conductor en relación a una referencia de tierra (nivel de referencia). En este caso, la señal se mide respecto a un punto de referencia en el circuito. Un ejemplo común es un cable coaxial en el que el conductor central lleva la señal y el conductor exterior y la tierra actúan como referencia.
+
+###Señal Balanceada:
+
+Una señal balanceada, también conocida como señal diferencial, se transmite a través de dos conductores: uno lleva la señal original y el otro lleva la misma señal pero invertida (opuesta en fase). Ambas señales tienen la misma amplitud pero polaridades opuestas. Esto significa que cualquier interferencia o ruido que afecte ambos conductores será rechazado en el receptor debido a la propiedad diferencial de la señal.
+
+###Aplicaciones del Uso de Señales Balanceadas:
+
+Las señales balanceadas tienen varias ventajas que las hacen ideales para muchas aplicaciones:
+
+1. **Rechazo de Ruido:** Debido a su naturaleza diferencial, las señales balanceadas son altamente inmunes al ruido y las interferencias. Cualquier interferencia que afecte ambos conductores se cancelará cuando se resta la señal invertida.
+
+2. **Transmisión a Largas Distancias:** Las señales balanceadas son menos susceptibles a la degradación a lo largo de distancias largas debido a su rechazo de ruido. Esto las hace ideales para aplicaciones como transmisiones de audio y video profesional.
+
+3. **Audio Profesional:** Los sistemas de audio profesional a menudo utilizan conexiones balanceadas para minimizar el ruido y garantizar una transmisión de alta calidad.
+
+4. **Redes y Comunicaciones:** En sistemas de redes y comunicaciones, las señales balanceadas ayudan a prevenir las interferencias electromagnéticas, mejorando la integridad de la señal en transmisiones de larga distancia.
+
+5. **Instrumentación y Medición:** En entornos en los que se necesita una alta precisión en la medición, las señales balanceadas reducen la interferencia y mejoran la exactitud de las mediciones.
 
 ![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
