@@ -10,9 +10,12 @@
 - Douglas Kopper, Carné: 2017220194 (Módulo de Ganancia Ajustable)   
 - Steven Arias, Carné: 2017097670 (Aislamiento y ADC)
 
+
 ---
 
+
 ## Planificación de Tareas
+
 
 ### Cuestionario Previo
 
@@ -33,19 +36,21 @@
    - completo[x]    en proceso[]    sin iniciar[]  
 
 
+
 ### Aislamiento y ADC
 
-**Diseño:** completo[]    en proceso[]    sin iniciar[x]
+**Diseño:** completo[]    en proceso[]    sin iniciar[x] '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Simulación:** completo[x]    en proceso[]    sin iniciar[x]  
+**Simulación:** completo[x]    en proceso[]    sin iniciar[x]  '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Implementación:** completo[x]    en proceso[]    sin iniciar[x]
+**Implementación:** completo[x]    en proceso[]    sin iniciar[x] '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  
+**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
+
 
 **Bitácora:**
 - [ ] Diseño:
@@ -60,20 +65,20 @@
 - [ ] Pruebas:
       -No iniciado
 
+
+
 ### Módulo de Ganancia Ajustable
 
-**Diseño:** completo[]    en proceso[]    sin iniciar[x]
+**Diseño:** completo[]    en proceso[]    sin iniciar[x]   '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Simulación:** completo[x]    en proceso[]    sin iniciar[x] 
-
+**Simulación:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Implementación:** completo[x]    en proceso[]    sin iniciar[x]
-
+**Implementación:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  
+**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  '\n'
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 
