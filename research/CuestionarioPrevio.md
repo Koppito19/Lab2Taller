@@ -31,7 +31,7 @@
 ## Pregunta 1:
 ¿Cuales son los tipos de sensores de temperatura más populares? ¿Cuáles son sus ventajas y desventajas en función de los requisitos del diseño?
 
-###Respuesta:
+### Respuesta:
 Termistores:
 Los termistores son sensores económicos y compactos que responden rápidamente a los cambios de temperatura. Son sensibles pero su precisión puede ser limitada en algunos rangos. Son ideales para aplicaciones que requieren respuestas rápidas a cambios de temperatura.
 
@@ -58,7 +58,7 @@ Estos sensores utilizan diodos de silicio para medir la temperatura. Son preciso
 ## Pregunta 2:
 ¿Cuales son los tipos de termocuplas? ¿Cuales son sus rangos de temperatura y tensión?
 
-###Respuesta:
+### Respuesta:
 Las termocuplas son sensores de temperatura que funcionan en base al principio de que cuando dos metales diferentes se unen en un extremo y se exponen a una diferencia de temperatura, se genera una diferencia de potencial (fuerza electromotriz) en el otro extremo de la termocupla. Existen varios tipos de termocuplas, designados por letras y combinaciones de metales que las componen.
 
 **Algunos Tipos de Termocuplas Comunes**
@@ -98,11 +98,11 @@ Las termocuplas son sensores de temperatura que funcionan en base al principio d
 
 Una señal no balanceada, también conocida como señal no diferencial o señal de un solo extremo, se transmite a través de un solo conductor en relación a una referencia de tierra (nivel de referencia). En este caso, la señal se mide respecto a un punto de referencia en el circuito. Un ejemplo común es un cable coaxial en el que el conductor central lleva la señal y el conductor exterior y la tierra actúan como referencia.
 
-###Señal Balanceada:
+### Señal Balanceada:
 
 Una señal balanceada, también conocida como señal diferencial, se transmite a través de dos conductores: uno lleva la señal original y el otro lleva la misma señal pero invertida (opuesta en fase). Ambas señales tienen la misma amplitud pero polaridades opuestas. Esto significa que cualquier interferencia o ruido que afecte ambos conductores será rechazado en el receptor debido a la propiedad diferencial de la señal. [3]
 
-###Aplicaciones del Uso de Señales Balanceadas:
+### Aplicaciones del Uso de Señales Balanceadas:
 
 Las señales balanceadas tienen varias ventajas que las hacen ideales para muchas aplicaciones:
 
@@ -122,7 +122,7 @@ Las señales balanceadas tienen varias ventajas que las hacen ideales para mucha
 ## Pregunta 4:
 ¿Qué es el aislamiento eléctrico entre dos tierras? ¿En los diseños electrónicos que ventajas tiene el aislamiento entre señales?
 
-###Respuesta:
+### Respuesta:
 El aislamiento eléctrico entre dos tierras se refiere a la práctica de separar dos partes de un sistema eléctrico o electrónico para evitar que las corrientes eléctricas fluyan entre ellas. Se logra utilizando materiales aislantes o dispositivos como transformadores o optoacopladores para evitar la conexión directa de las tierras.
 
 **Ventajas del Aislamiento entre Señales en Diseños Electrónicos**
@@ -142,7 +142,7 @@ El aislamiento eléctrico entre dos tierras se refiere a la práctica de separar
 ## Pregunta 5:
 Investigue diseños electrónicos para aislar eléctricamente señales DC o de baja frecuencia (<100Hz).
 
-###Respuesta:
+### Respuesta:
  Optoacopladores (Optoaisladores):
 Los optoacopladores son dispositivos que utilizan un LED en una parte del circuito y un fototransistor en la otra. La señal de entrada se convierte en una señal de luz por el LED, que luego se detecta en el fototransistor y se convierte de nuevo en una señal eléctrica. Esto proporciona aislamiento galvánico, ya que no hay conexión eléctrica directa entre las dos partes del circuito. Los optoacopladores son ideales para señales de baja frecuencia y DC, y son comunes en aplicaciones de control y monitoreo.
 
