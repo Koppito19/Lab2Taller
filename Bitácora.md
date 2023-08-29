@@ -39,16 +39,16 @@
 
 ### Aislamiento y ADC
 
-**Diseño:** completo[]    en proceso[]    sin iniciar[x] '\n'
+**Diseño:** completo[]    en proceso[]    sin iniciar[x] \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Simulación:** completo[x]    en proceso[]    sin iniciar[x]  '\n'
+**Simulación:** completo[x]    en proceso[]    sin iniciar[x]  \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Implementación:** completo[x]    en proceso[]    sin iniciar[x] '\n'
+**Implementación:** completo[x]    en proceso[]    sin iniciar[x] \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
+**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]   \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 
@@ -69,16 +69,16 @@
 
 ### Módulo de Ganancia Ajustable
 
-**Diseño:** completo[]    en proceso[]    sin iniciar[x]   '\n'
+**Diseño:** completo[]    en proceso[]    sin iniciar[x]   \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Simulación:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
+**Simulación:** completo[x]    en proceso[]    sin iniciar[x]   \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Implementación:** completo[x]    en proceso[]    sin iniciar[x]   '\n'
+**Implementación:** completo[x]    en proceso[]    sin iniciar[x]   \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  '\n'
+**Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  \n
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 
