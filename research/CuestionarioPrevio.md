@@ -100,7 +100,7 @@ Una señal no balanceada, también conocida como señal no diferencial o señal 
 
 ###Señal Balanceada:
 
-Una señal balanceada, también conocida como señal diferencial, se transmite a través de dos conductores: uno lleva la señal original y el otro lleva la misma señal pero invertida (opuesta en fase). Ambas señales tienen la misma amplitud pero polaridades opuestas. Esto significa que cualquier interferencia o ruido que afecte ambos conductores será rechazado en el receptor debido a la propiedad diferencial de la señal.
+Una señal balanceada, también conocida como señal diferencial, se transmite a través de dos conductores: uno lleva la señal original y el otro lleva la misma señal pero invertida (opuesta en fase). Ambas señales tienen la misma amplitud pero polaridades opuestas. Esto significa que cualquier interferencia o ruido que afecte ambos conductores será rechazado en el receptor debido a la propiedad diferencial de la señal. [3]
 
 ###Aplicaciones del Uso de Señales Balanceadas:
 
@@ -115,8 +115,6 @@ Las señales balanceadas tienen varias ventajas que las hacen ideales para mucha
 4. **Redes y Comunicaciones:** En sistemas de redes y comunicaciones, las señales balanceadas ayudan a prevenir las interferencias electromagnéticas, mejorando la integridad de la señal en transmisiones de larga distancia.
 
 5. **Instrumentación y Medición:** En entornos en los que se necesita una alta precisión en la medición, las señales balanceadas reducen la interferencia y mejoran la exactitud de las mediciones.
-
-![Título de la imagen](Imagenes_CuestionarioPrevio/imagen.png)
 
 
 
@@ -217,13 +215,13 @@ Un CTR más alto indica una mejor capacidad del sistema para minimizar la interf
 
 2.  National Institute of Standards and Technology (NIST). "Thermocouples Calibrations Services". [Enlace a la fuente](https://www.nist.gov/pml/sensor-science/thermodynamic-metrology/thermocouples-calibrations-services).
 
-3. Ref3.
+3. C. K. Alexander, Fundamentals of Electric Circuits, McGraw-Hill Education, 2006. ISBN 978-607-15-0948-2.
 
 4. Texas Instruments. "Isolation: Understanding Signal and Power Isolation in Digital Systems". [Enlace de la fuente](https://www.ti.com/lit/an/slla197/slla197.pdf).
 
 5. Scherz, P., & Monk, S. (2013). Practical electronics for inventors. McGraw-Hill Education.. [Enlace a la fuente](https://www.accessengineeringlibrary.com/content/book/9780071771337).
 
-6.Microchip. "Programmable Gain Amplifiers (PGAs), Operational Amplifiers and Comparators Design Guide".[Enlace de la fuente](http://ww1.microchip.com/downloads/en/devicedoc/21861b.pdf).
+6. Microchip. "Programmable Gain Amplifiers (PGAs), Operational Amplifiers and Comparators Design Guide".[Enlace de la fuente](http://ww1.microchip.com/downloads/en/devicedoc/21861b.pdf).
 
 7. Thomas L. Floyd, Dispositivos Electrónicos, 8ª ed., PEARSON EDUCACION, 2008. ISBN 978-970-26-1193-6.
 
