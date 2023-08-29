@@ -36,40 +36,41 @@
 ### Aislamiento y ADC
 
 **Diseño:** completo[]    en proceso[]    sin iniciar[x]
-
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Simulación:** completo[x]    en proceso[]    sin iniciar[x]  
-
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Implementación:** completo[x]    en proceso[]    sin iniciar[x]
-
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  
-
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Bitácora:**
 - [ ] Diseño:
+      -No iniciado
 
 - [ ] Simulación:
+      -No iniciado
 
 - [ ] Implementación:
+      -No iniciado
 
 - [ ] Pruebas:
-
+      -No iniciado
 
 ### Módulo de Ganancia Ajustable
 
 **Diseño:** completo[]    en proceso[]    sin iniciar[x]
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
-**Simulación:** completo[x]    en proceso[]    sin iniciar[x]  
+**Simulación:** completo[x]    en proceso[]    sin iniciar[x] 
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Implementación:** completo[x]    en proceso[]    sin iniciar[x]
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  
@@ -78,9 +79,16 @@
 
 **Bitácora:**
 - [ ] Diseño:
+      -No iniciado
+
 - [ ] Simulación:
+      -No iniciado
+
 - [ ] Implementación:
+      -No iniciado
+
 - [ ] Pruebas:
+      -No iniciado
 
 
 ---
