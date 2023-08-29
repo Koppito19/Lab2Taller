@@ -36,21 +36,28 @@
 ### Aislamiento y ADC
 
 **Diseño:** completo[]    en proceso[]    sin iniciar[x]
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Simulación:** completo[x]    en proceso[]    sin iniciar[x]  
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Implementación:** completo[x]    en proceso[]    sin iniciar[x]
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Pruebas de laboratorio:** completo[x]    en proceso[]    sin iniciar[x]  
+
 **Fecha de Finalización Esperada:** [Fecha estimada de finalización]
 
 **Bitácora:**
 - [ ] Diseño:
+
 - [ ] Simulación:
+
 - [ ] Implementación:
+
 - [ ] Pruebas:
 
 
